@@ -11,10 +11,11 @@
 
 📈 **Weekly development breakdown**
 <!--START_SECTION:waka-->
+
 ```text
-CSS          31 mins         ███████████████████░░░░░░   76.08 % 
-TypeScript   9 mins          ██████░░░░░░░░░░░░░░░░░░░   23.89 % 
+No activity tracked
 ```
+
 <!--END_SECTION:waka-->
 
 -------
