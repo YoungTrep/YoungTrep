@@ -13,7 +13,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+CSS          14 mins         █████████████▓░░░░░░░░░░░   54.43 %
+TypeScript   9 mins          █████████▒░░░░░░░░░░░░░░░   37.15 %
+SCSS         2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
