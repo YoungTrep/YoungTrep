@@ -13,7 +13,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Rust   12 mins         █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
